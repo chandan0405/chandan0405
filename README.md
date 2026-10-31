@@ -1,6 +1,6 @@
 ![logo](https://github.com/chandan0405/chandan0405/blob/main/Gihub-Banner.png)
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer with 3+ years of experience.</h3>
 <img align="right" alt="coding.pic" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan0405&label=Profile%20views&color=0e75b6&style=flat" alt="chandan0405" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **backend , RestAPI**
 
-- 💬 Ask me about **React, JavaScript, C++, mongoDB, SCSS/CSS, TAILWIND CSS, GIT, GITUB, POSTMAN**
+- 💬 Ask me about **React, Next.Js JavaScript, C++, MongoDB, SCSS/CSS, TAILWIND CSS, GIT, GITHUB, POSTMAN, Firebase**
 
 - 📫 How to reach me **chandan04051999@gmail.com**
 
@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/chandan04051999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/chandan04051999/" height="30" width="40" /></a>
 </p>
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Frontend developer with 3+ year of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan0405&label=Profile%20views&color=0e75b6&style=flat" alt="chandan0405" /> </p>
 
